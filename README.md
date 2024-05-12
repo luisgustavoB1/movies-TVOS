@@ -7,7 +7,7 @@ Movie is an application for tvOS that searches and presents some film sections a
 ## Getting started
 To run the project, you simply open the project and wait for packages to be downloaded
 #### The app requires an API key from TMDB website to run it, please add you API key in the AppConstants file to the "Authorization" variable shown in the following screenshot:
-<img width="1044" alt="Screenshot 2024-03-10 at 7 49 17 PM" src="https://github.com/luisgustavoB1/DSPokemon/assets/46496566/85367dd4-1f6f-4772-a7c8-85993643e713">
+<img width="400" alt="Screenshot 2024-03-10 at 7 49 17 PM" src="https://github.com/luisgustavoB1/movies-visionOS/assets/46496566/8343f7ec-2c81-420f-a63c-1670c9092095">
 
 ## Screens overview
 <img width="400" alt="Home" src="https://github.com/luisgustavoB1/movies-TVOS/assets/46496566/c677f6f0-d64e-404e-ac82-c9caa335392c"> 
